@@ -1,22 +1,32 @@
 # Introduction 🚀
-I'm lav kumar singh , NSEC, Btech 1st year student.
+Hii I'm lav kumar singh, currently studying in Netaji Subhash Engineering College,
+
+pursuing Btech 1st year under Information Tecnology Department.
+
+I believe in learning new things and explore them,
+
+I have currently started learning basics about C programming and HTML & CSS and trying to explor them more.
+
+Thank you 🙂
 ## 💠Basic details
-**NAMA** *Lav Kumar Sngh*
+**NAME:**   *Lav Kumar Sngh*
 
-**State** *West Bengal*
+**State:** *West Bengal*
 
-**City** *Kolkata*<img src="https://img.icons8.com/bubbles/50/000000/kolkata.png">
+**City:** *Kolkata*
+
+<img src="https://img.icons8.com/bubbles/50/000000/kolkata.png">
 
 
 
-<img align="center" src="https://poster.keepcalmandposters.com/default/5887716_keep_calm_and_code_on.jpg"  width ="300" height="400">
+<img  src="https://poster.keepcalmandposters.com/default/5887716_keep_calm_and_code_on.jpg"  width ="300" height="400">
 
 
 
 ## 💠COLLEGE DETAILS
-**College Name** *Netaji Shubhash Engineering College*
+**College Name:** *Netaji Shubhash Engineering College*
 
-**college city** *Kolkata Garia*
+**college city:** *Garia, Kolkata*
 ## 💠here is my skills
 | s.No | Skills |
 |---|---|
@@ -25,14 +35,15 @@ I'm lav kumar singh , NSEC, Btech 1st year student.
 |3.| html|
 
 ## 💠courses
-1. corsera
-2. udemy
-3. nptel
+1. Corsera
+2. Udemy
+3. Nptel
 
 ## 💠language
-- hindi
-- english
-- bhojpuri
+- Hindi
+- English
+- Bhojpuri
+- Bengali
 
 
 
