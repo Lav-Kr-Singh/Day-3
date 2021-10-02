@@ -6,8 +6,8 @@ I'm lav kumar singh , NSEC, Btech 1st year student.
 ###### Basic details 
 **BOLD**  *italic*
 **NAMA** *Lav Kumar Sngh*
-**City** *Kolkata*
-
+**City** *Kolkatya*
+<img src="https://poster.keepcalmandposters.com/default/5887716_keep_calm_and_code_on.jpg"/>
 <img src="https://img.icons8.com/bubbles/50/000000/kolkata.png"/>
 
 ## 💠COLLEGE DETAILS
