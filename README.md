@@ -1,14 +1,17 @@
 # Introduction 🚀
 I'm lav kumar singh , NSEC, Btech 1st year student.
 ## 💠Basic details
-### Basic details
-#### Basic details
-###### Basic details 
-**BOLD**  *italic*
 **NAMA** *Lav Kumar Sngh*
-**City** *Kolkatya*
-<img src="https://poster.keepcalmandposters.com/default/5887716_keep_calm_and_code_on.jpg"/>
-<img src="https://img.icons8.com/bubbles/50/000000/kolkata.png"/>
+
+**State** *West Bengal*
+
+**City** *Kolkata*<img src="https://img.icons8.com/bubbles/50/000000/kolkata.png">
+
+
+
+<img align="center" src="https://poster.keepcalmandposters.com/default/5887716_keep_calm_and_code_on.jpg"  width ="300" height="400">
+
+
 
 ## 💠COLLEGE DETAILS
 **College Name** *Netaji Shubhash Engineering College*
@@ -30,9 +33,6 @@ I'm lav kumar singh , NSEC, Btech 1st year student.
 - hindi
 - english
 - bhojpuri
-
-## 💠Here is the link for my linkedin
-[click on this] ()
 
 
 
