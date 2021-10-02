@@ -8,7 +8,9 @@ I believe in learning new things and explore them,
 I have currently started learning basics about C programming and HTML & CSS and trying to explor them more.
 
 Thank you 🙂
+
 ## 💠Basic details
+
 **NAME:**   *Lav Kumar Sngh*
 
 **State:** *West Bengal*
