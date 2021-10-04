@@ -1,7 +1,11 @@
 # Introduction 🚀
-Hii I'm lav kumar singh, currently studying in Netaji Subhash Engineering College,
+Hii I'm lav kumar singh, currently studying in Netaji Subhash Engineering College, staying in Kolkata,The City Of Joy.
 
-pursuing Btech 1st year under Information Tecnology Department.
+<img src="https://img.icons8.com/bubbles/50/000000/kolkata.png">
+
+
+
+Now I'm pursuing Btech 1st year under Information Tecnology Department.
 
 I believe in learning new things and explore them,
 
@@ -11,13 +15,11 @@ Thank you 🙂
 
 ## 💠Basic details
 
-**NAME:**   *Lav Kumar Sngh*
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-**State:** *West Bengal*
-
-**City:** *Kolkata*
-
-<img src="https://img.icons8.com/bubbles/50/000000/kolkata.png">
+- 🤔 &nbsp; Exploring new technologies and developing software.
+- 🎓 &nbsp; Studying Computer Science and Mathematics.
+- 🌱 &nbsp; Learning more about communication skils ethice and programming.
 
 
 
